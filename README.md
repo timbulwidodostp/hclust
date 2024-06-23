@@ -1,6 +1,8 @@
 # hclust
 Hierarchical Cluster Analysis Use hclust With (In) R Software
 
+https://www.youtube.com/watch?v=egMriRU3fKM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
